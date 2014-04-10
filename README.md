@@ -1,4 +1,6 @@
-test
+# Test
 ====
 
-Testing github
+## Testing github
+
+We're having a workshop together with Jordan : - )
